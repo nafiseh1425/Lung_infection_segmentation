@@ -1,0 +1,1 @@
+model is the actual code of attention model, we used it as is
