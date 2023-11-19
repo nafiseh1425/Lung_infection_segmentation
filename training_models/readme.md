@@ -2,13 +2,13 @@
 
 For the infection Segmentation we had combined 5 “Attention residual UNet” models as follows:  
 
-Model 1:
+Model 1:  
 
 ![image](https://github.com/nafiseh1425/Lung_infection_segmentation/assets/71519929/24ea4e25-49b5-4bc6-9abd-2b6c3a954c74)  
 
+  
+Model 2:  
 
-
-Model 2:
 ![image](https://github.com/nafiseh1425/Lung_infection_segmentation/assets/71519929/1a3aecea-cbec-40ea-8f8a-50669f86913d)  
 
 
