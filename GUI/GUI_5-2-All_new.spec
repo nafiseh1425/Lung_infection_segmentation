@@ -4,7 +4,7 @@
 block_cipher = None
 
 
-a = Analysis(['GUI_5-2-All_new.py'],
+a = Analysis(['GUI_severity_segmentation.py'],
              pathex=[],
              binaries=[],
              datas=[(r'C:\Users\Alireza\OneDrive - University of Oklahoma\Documents\GUI\3_channel_best.hdf5', '.'),
