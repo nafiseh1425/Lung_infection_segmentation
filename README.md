@@ -1,4 +1,4 @@
-# Lung infection segmentation
+# Lung Infection Segmentation
 To assist clinicians in overcoming the challenge of manual infection segmentation, we developed a new method to automatically segment and quantify the percentage of the infected lung volume.
 We used an ensemble technique for the infection segmentation and combined five Attention residual UNet models.
 
@@ -7,7 +7,7 @@ Examples of the segmentation results
                   (a) CT image (b) Lung area segmentation mask (c) Lung infection segmentation mask.
 
 
-# Severity Segmentation results
+# Severity Segmentation Results
 
 ![image](https://github.com/nafiseh1425/Lung_infection_segmentation/assets/71519929/dccab714-4d1e-40c7-952d-70101e61ee0e)
 Severity segmentation results. The green area represents the GGO and Crazy Paved pattern. The yellow area shows the Consolidation area.
@@ -18,7 +18,7 @@ This research was funded by the Universidad Nacional de San Agustin (UNSA), Areq
 
 
 
-# Referencing and citing
+# Referencing and Citing
 
 If you use this code please refer to:
 Mirniaharikandehei, S., Abdihamzehkolaei, A., Choquehuanca, A., Aedo, M., Pacheco, W., Estacio, L., ... & Jo, J. A. (2023). Automated Quantification of Pneumonia Infected Volume in Lung CT Images: A Comparison with Subjective Assessment of Radiologists. Bioengineering, 10(3), 321.
