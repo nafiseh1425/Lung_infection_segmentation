@@ -26,10 +26,10 @@ Model 4:
 
  Note:
 
- NOTE:  Above models are the results of changes in (Infection-from_npy_only_infected_Augmented.ipynb
+ NOTE:  The above models are the results of changes in "Infection-Augmented.ipynb"
 
 
- FPN model is from the library of "segmentation model" for the Severity Segmentation.
+ The FPN model is from the library of "segmentation model" for the Severity Segmentation.
 
 
 
