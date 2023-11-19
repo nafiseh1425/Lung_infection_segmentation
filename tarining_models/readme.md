@@ -26,7 +26,7 @@ Model 4:
 
  Note:
 
- NOTE:  Above models are the results of changes in (Infection-from_npy_only_infected_Augmented.py
+ NOTE:  Above models are the results of changes in (Infection-from_npy_only_infected_Augmented.ipynb
 
 
 
