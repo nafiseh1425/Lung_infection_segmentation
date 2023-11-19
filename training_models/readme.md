@@ -4,24 +4,25 @@ For the infection Segmentation we had combined 5 “Attention residual UNet” m
 
 Model 1:
 
-![image](https://github.com/nafiseh1425/Lung_infection_segmentation/assets/71519929/805c685d-74bd-4f57-98c5-c0dbfb08d82e)
+![image](https://github.com/nafiseh1425/Lung_infection_segmentation/assets/71519929/24ea4e25-49b5-4bc6-9abd-2b6c3a954c74)
+
 
 
 Model 2:
+![image](https://github.com/nafiseh1425/Lung_infection_segmentation/assets/71519929/1a3aecea-cbec-40ea-8f8a-50669f86913d)
 
-![image](https://github.com/nafiseh1425/Lung_infection_segmentation/assets/71519929/be70b686-0ecf-4092-b103-4585985dff1d)  
 
 Model 3:
 
-![image](https://github.com/nafiseh1425/Lung_infection_segmentation/assets/71519929/a5008c92-0044-4503-9c87-882abf50f58f)  
+![image](https://github.com/nafiseh1425/Lung_infection_segmentation/assets/71519929/012ab4a1-a4c0-41d5-b709-76141c454305)
 
 Model 4:
 
-![image](https://github.com/nafiseh1425/Lung_infection_segmentation/assets/71519929/49acfc58-829b-4ad3-8ee3-7509d0d0f450)  
+![image](https://github.com/nafiseh1425/Lung_infection_segmentation/assets/71519929/7ec6c1b9-efa2-4d5f-9c95-38802436f422)
 
  Model 5:
 
- ![image](https://github.com/nafiseh1425/Lung_infection_segmentation/assets/71519929/719a2375-9c70-4780-b71d-9bf3b92ded00)
+![image](https://github.com/nafiseh1425/Lung_infection_segmentation/assets/71519929/719bb10b-8cdb-40fe-bc20-dac09f3c5db9)
 
 
  Note:
