@@ -3,7 +3,9 @@ To assist clinicians in overcoming the challenge of manual infection segmentatio
 We used an ensemble technique for the infection segmentation and combined five Attention residual UNet models.
 
 Examples of the segmentation results
-![image](https://github.com/nafiseh1425/Lung_infection_segmentation/assets/71519929/eb6bc252-0b7d-4d0d-9911-cbce36189e1b)  
+![image](https://github.com/nafiseh1425/Lung_infection_segmentation/assets/71519929/a9569e19-23ea-444f-b9bc-1a234d73391c)
+
+
                   (a) CT image (b) Lung area segmentation mask (c) Lung infection segmentation mask.
 
 
